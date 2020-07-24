@@ -6,7 +6,7 @@ Vue.use(VueI18n);
 const i18nMsg = {
   CN: require("@/assets/lang/cn"),
   EN: require("@/assets/lang/en"),
-  JPN:require("@/assets/lang/JPN")
+  JPN:require("@/assets/lang/jpn")
 };
 const i18n = new VueI18n({
   locale: store.state.i18n,

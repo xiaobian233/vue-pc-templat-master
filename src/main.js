@@ -18,7 +18,7 @@ import store from "./store/index";
 // 引入api
 import api from "@/api/api.js";
 
-import "./utils/rem";
+// import "./utils/rem";
 
 import i18n from "./utils/i18n";
 
